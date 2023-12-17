@@ -8,7 +8,7 @@ The project utilizes the ESC-50 dataset, a collection of 2000 environmental audi
 
 ## 2. Source
 
-The source code for this project can be found in the [src](src) directory.
+The source code for this project can be found in the src directory.
 
 ## 3. Technologies Used
 
