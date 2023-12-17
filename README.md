@@ -4,7 +4,7 @@
 
 ## 1. Dataset
 
-The project utilizes the ESC-50 dataset, a collection of 2000 environmental audio recordings equally distributed across 50 classes. Each class represents a different sound event, making it suitable for audio classification tasks. You can find the dataset [here](link_to_dataset).
+The project utilizes the ESC-50 dataset, a collection of 2000 environmental audio recordings equally distributed across 50 classes. Each class represents a different sound event, making it suitable for audio classification tasks. You can find the dataset [here]([link_to_dataset](https://github.com/karolpiczak/ESC-50)).
 
 ## 2. Source
 
