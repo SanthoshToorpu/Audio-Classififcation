@@ -53,6 +53,7 @@ The model achieved impressive results in audio classification, with accuracy rea
    ## Model Statistics
    ## Model - 1
    Model: "sequential_9"
+   ```python
    _________________________________________________________________
     Layer (type)                Output Shape              Param #   
    =================================================================
@@ -80,6 +81,7 @@ The model achieved impressive results in audio classification, with accuracy rea
    Trainable params: 54714 (213.73 KB)
    Non-trainable params: 0 (0.00 Byte)
    _________________________________________________________________
+   ```
    - **Final Training Loss:** 0.07247831672430038
    - **Final Validation Loss:** 0.7191997766494751
    - **Final Training Accuracy:** 0.96875
@@ -92,6 +94,7 @@ The model achieved impressive results in audio classification, with accuracy rea
 
    ## Model - 2
    Model: "efficientnetv2-b0"
+```python   
 __________________________________________________________________________________________________
  Layer (type)                Output Shape                 Param #   Connected to                  
 ==================================================================================================
@@ -859,7 +862,7 @@ Total params: 5919312 (22.58 MB)
 Trainable params: 0 (0.00 Byte)
 Non-trainable params: 5919312 (22.58 MB)
 __________________________________________________________________________________________________
-
+```
 - **Final Training Loss:** 1.1487236022949219
 - **Final Validation Loss:** 1.1117841005325317
 - **Final Training Accuracy:** 0.6041666865348816
