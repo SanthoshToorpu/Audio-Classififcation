@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## 4. Final Result
 
-The model achieved impressive results in audio classification, with accuracy reaching [accuracy_percentage]% on the validation set. For a detailed overview of the training process and performance metrics, refer to the notebook.
+The model achieved impressive results in audio classification, with accuracy reaching [ 0.96875]% on the validation set. For a detailed overview of the training process and performance metrics, refer to the notebook.
 
 ### How to Use
 
