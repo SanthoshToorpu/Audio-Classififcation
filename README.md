@@ -90,7 +90,7 @@ The model achieved impressive results in audio classification, with accuracy rea
    - **Highest Validation Accuracy:** 0.8916666507720947
 
    ![mode1](https://github.com/SanthoshToorpu/Audio-Classififcation/assets/90833739/117ef1c8-1936-4983-9186-025efc00d468)
-
+   ![mh](https://github.com/SanthoshToorpu/Audio-Classififcation/assets/90833739/0fac0d75-3316-4769-a88c-a2ff0d970468)
 
    ## Model - 2
    Model: "efficientnetv2-b0"
@@ -869,5 +869,7 @@ ________________________________________________________________________________
 - **Final Validation Accuracy:** 0.612500011920929
 - **Highest Training Accuracy:** 0.6177083253860474
 - **Highest Validation Accuracy:** 0.6458333134651184
+  
 ![resnet](https://github.com/SanthoshToorpu/Audio-Classififcation/assets/90833739/0db414bd-8ac1-4f93-9fbc-13b1210397db)
+![eh](https://github.com/SanthoshToorpu/Audio-Classififcation/assets/90833739/d0359aab-1b54-4f72-ad85-989ed81e02e3)
 
