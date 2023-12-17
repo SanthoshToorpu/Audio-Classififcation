@@ -1,5 +1,3 @@
-Certainly! Here's a simple template for a `README.md` file for your GitHub project on Audio Classification using the ESC-50 dataset:
-
 ```markdown
 # Audio Classification with ESC-50 Dataset
 
@@ -26,7 +24,7 @@ pip install -r requirements.txt
 
 ## 4. Final Result
 
-The model achieved impressive results in audio classification, with accuracy reaching [accuracy_percentage]% on the validation set. For a detailed overview of the training process and performance metrics, refer to the [notebooks](notebooks) directory.
+The model achieved impressive results in audio classification, with accuracy reaching [accuracy_percentage]% on the validation set. For a detailed overview of the training process and performance metrics, refer to the notebook.
 
 ### How to Use
 
